@@ -551,17 +551,7 @@ if __name__ == '__main__':
 
 
     )
-'''
-''''
-from tkinter import *
-page=Tk()
-page.geometry("600x400")
 
-a = Label(page,text="Enter URL").place(x=70,y=70)
-c = Entry(page,width=80).place(x=160,y=80)
-b = Button(page,text="Download").place(x=150,y=180)
-
-page.mainloop()
 
 
 
